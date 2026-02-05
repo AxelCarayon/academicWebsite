@@ -23,7 +23,7 @@ My main research interests are (but not limited to) :
 
 # Research Projects
 I have worked on the following research projects :
-- [TEAMUP (Task Execution states for Awareness and Monitoring of User Performance)](https://www.irit.fr/recherches/ICS/projects/teamup/) (2022-2025)
+- [TEAMUP (Task Execution states for Awareness and Monitoring of User Performance)](https://www.irit.fr/recherches/ICS/projects/teamup/) (2022-2026)
 - [STRECCC (Study and Recommendations for the Ergonomics of Command and Control Centers)](https://www.irit.fr/recherches/ICS/projects/streccc/) (2023-2024)
 
 # Awards
