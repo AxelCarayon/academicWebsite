@@ -27,7 +27,7 @@ Please note that this is only an overview. If you want more details, such as the
 - Ingéniérie des Logiciels et Utilisabilité 3
 - Ingéniérie des Logiciels et Utilisabilité 4
 
-Master Informatique [Science du Logiciel](https://www.master-developpement-logiciel.fr/)/[Interaction Humain-Machine](https://masterihm.fr/)(University of Toulouse : )
+Master Informatique [Science du Logiciel](https://www.master-developpement-logiciel.fr/)/[Interaction Humain-Machine](https://masterihm.fr/)(University of Toulouse) :
 - Developpement Collaboratif
 - Ingéniérie des Systèmes interactifs
 - Applications Web Dynamiques
