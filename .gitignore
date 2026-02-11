@@ -23,5 +23,5 @@ package-lock.json
 .DS_Store
 
 # Ignore resume source document
-.docx
-.doc
+*.docx
+*.doc
